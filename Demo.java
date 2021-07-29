@@ -8,5 +8,8 @@ public class Demo
 	m1()
 	{
 	}
+	m2()
+	{
+	}
 	
 }
